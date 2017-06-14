@@ -1,9 +1,9 @@
 package br.jgb.jogo;
 
 /**
- * Inicio do aplicação
+ * Inicio do aplicaÃ§Ã£o
  * 
- * @author Jandrei Grapiglia Buchelt (41) 99586-2068
+ * @author Jandrei
  *
  */
 public class Inicio {
